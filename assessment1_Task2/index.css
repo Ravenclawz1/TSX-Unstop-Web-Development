@@ -1,0 +1,27 @@
+.block{display: block;}
+.inline{display: inline;}
+.inline-block{display: inline-block;}
+header
+{
+    background-color:gray;
+    color: brown;
+    text-align: center;
+    padding: 2%;
+}
+nav
+{
+    background-color: cornflowerblue;
+    color: black;
+    text-align: left;
+    padding: 1%;
+}
+main
+{
+    margin: 3rem;
+    padding: 3rem;
+}
+article
+{
+    margin: 2rem;
+    padding: 2rem;
+}
